@@ -1,5 +1,5 @@
 # Sitecore.Support.94368
-Fix resolving of the &quot;/&quot; symbol in the Display name of the item if &quot;useDisplayName&quot; setting in the LinkManager is set to &quot;true&quot;
+Fix replacing the symbols from the "encodeNameReplacements" section by the "LinkManager"
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.94368/blob/master/LICENSE).  
